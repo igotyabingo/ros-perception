@@ -1,0 +1,18 @@
+path: .
+train: images/train
+val: images/val
+
+names:
+  - nurse
+  - apple
+  - pizza
+  - banana
+  - rotten apple
+  - eaten pizza
+  - rotten banana
+  - box
+  - green cone
+  - red cone
+  - blue cone
+  - stop sign
+  - toilet
